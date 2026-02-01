@@ -33,6 +33,12 @@ Projects begin with a lightweight **Project One-pager** that defines:
 
 ### Team Structure
 
+**Project Sponsors** are responsible for:
+- Providing strategic direction and ensuring organizational alignment
+- Securing resources and resolving executive-level roadblocks
+- Making high-level decisions on scope and priority
+- Championing the project at leadership levels
+
 **Project Managers** are responsible for:
 - Coordinating delivery activities across the team
 - Managing schedules, timelines, and milestone tracking
@@ -48,6 +54,13 @@ Projects begin with a lightweight **Project One-pager** that defines:
 - Validating solutions through user research and metrics analysis
 - Making trade-off decisions on scope and priorities
 
+**Business Analysts** are responsible for:
+- Gathering and documenting business requirements
+- Translating business needs into user stories and acceptance criteria
+- Facilitating requirements workshops and validation sessions
+- Ensuring solutions meet business needs
+- Maintaining requirements traceability
+
 **Developers** are responsible for:
 - Implementing features that meet acceptance criteria
 - Writing and maintaining tests and technical documentation
@@ -55,11 +68,27 @@ Projects begin with a lightweight **Project One-pager** that defines:
 - Assisting in estimating and planning work
 - Collaborating with QA to ensure quality standards
 
-**QA/Testing** professionals are responsible for:
-- Validating that quality standards are met
-- Ensuring acceptance criteria are satisfied
-- Executing test plans and reporting defects
-- Contributing to test automation strategies
+**QA Leads** are responsible for:
+- Defining quality standards and test strategies
+- Coordinating testing activities across the team
+- Managing defect tracking and resolution workflows
+- Ensuring test automation and comprehensive coverage
+- Reporting on quality metrics and testing progress
+
+**Change Managers** are responsible for:
+- Overseeing change control processes and approval workflows
+- Evaluating change requests for impact and risk
+- Coordinating stakeholder communication about changes
+- Ensuring changes follow governance processes
+- Tracking change metrics and lessons learned
+
+**General Stakeholders** are responsible for:
+- Providing business requirements from their perspective
+- Participating in reviews and validation sessions
+- Representing the needs of their user group or organization
+- Approving deliverables within their area of responsibility
+
+For complete role definitions, interactions, and communication patterns, see [Roles & Personas](octoacme-roles-and-personas.md).
 
 ### Day-to-Day Execution
 
@@ -126,6 +155,13 @@ The following process documents provide detailed guidance for each aspect of pro
 - [Release & Deployment Guide](octoacme-release-and-deployment.md)
 - [Retrospective & Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md)
 - [Roles & Personas](octoacme-roles-and-personas.md)
+
+## Templates & Checklists
+
+The following templates and checklists help teams apply the processes effectively:
+
+- [RACI Matrix Template](raci-matrix-template.md) - Clarify accountability for project activities
+- [Role-Based Communication Checklist](role-based-communication-checklist.md) - Ensure effective communication across roles
 
 ## Getting Started
 
