@@ -15,7 +15,7 @@ This checklist ensures that each role maintains appropriate communication with o
 ## Project Sponsor Communication Checklist
 
 ### Weekly/Ongoing
-- [ ] Review monthly status reports from Project Manager
+- [ ] Review status reports from Project Manager (typically monthly formal reports)
 - [ ] Maintain awareness of major risks and blockers
 - [ ] Be available for escalation resolution
 - [ ] Provide strategic guidance when project direction is unclear

@@ -7,6 +7,7 @@ A RACI matrix clarifies accountability by defining who is Responsible, Accountab
 
 - **Responsible (R)**: Person(s) who do the work to complete the task. There can be multiple responsible parties.
 - **Accountable (A)**: Person who is ultimately answerable for the correct completion of the task. There must be exactly ONE accountable person per activity.
+  - *Note: When the accountable person is also doing the work, both A and R can be assigned to the same person (shown as A/R).*
 - **Consulted (C)**: People who provide input and expertise before decisions are made. Two-way communication.
 - **Informed (I)**: People who are kept up-to-date on progress. One-way communication.
 
